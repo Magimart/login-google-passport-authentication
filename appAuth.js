@@ -1,18 +1,14 @@
 
 //++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-// The is the final Level of Authentication for the site
+// Login User Passport Authentication Using Google
 //++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 //ref: http://www.passportjs.org/packages/passport-google-oauth20
-// We login with google so will will install npm install passport-google-oauth20
-// login  name  magimaArt developer, 01625693619  develope2210@gmail.com pass#12340Madima#
-// npm i mongoose-findorcreate 
+
+
 
 
 //we will create a new projects called 'Secrets' at googles developers console
 
- // these ids will be gto after setting the googles api 
-//your client id:  569690146928-7qlkbvcjq49pcua18j347l0pa6bdvb9l.apps.googleusercontent.com
-//your secret id:  AIzaSyBrr2gCsWdaeM2wgNZq2V26iv075OJPoxU
 
 
 require('dotenv').config();

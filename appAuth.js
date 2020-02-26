@@ -4,7 +4,19 @@
 //++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 //ref: http://www.passportjs.org/packages/passport-google-oauth20
 
-
+ "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "express-session": "^1.17.0",
+    "mongoose": "^5.9.1",
+    "mongoose-findorcreate": "^3.0.0",
+    "passport": "^0.4.1",
+    "passport-google-oauth20": "^2.0.0",
+    "passport-local": "^1.0.0",
+    "passport-local-mongoose": "^6.0.1"
+  }
 
 
 //we will create a new projects called 'Secrets' at googles developers console
